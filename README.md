@@ -17,5 +17,6 @@ To create a plugin for MirrorNG, follow these steps:
 12) add SONAR_PROJECT_KEY secret.  It must be set to the project id in sonarcloud.  For example for MirrorNG it is MirrorNG_MirrorNG
 13) Add SONAR_PROJECT_NAME secret.  Set it to a human readable name for your project
 14) add SONAR_TOKEN secret. You can get the token by going through the configuration wizard in sonar qube
+15) Replace this readme with README.md.sample and edit as appropriate
 
 Once your plugin is working the way you like,  you can add it to openupm by going to https://openupm.com/packages/add/
