@@ -2,7 +2,7 @@
 
 To create a plugin for MirrorNG, follow these steps:
 
-1) Create a repository from this template
+1) Click on "Use this template" button at the top right to create your repo
 2) Rename Assets/MyPlugin with a name appropriate for your plugin
 3) Rename MyPlugin.asmdef
 4) edit MyPlugin.asmdef and change the name of the assembly
