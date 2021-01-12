@@ -10,7 +10,7 @@ To create a plugin for MirrorNG, follow these steps:
 6) update .releaserc.yml with the correct path
 7) update README.txt to describe your project
 8) While not strictly required,  I suggest creating a symbolic link from Assets/MyPlugin/Samples~ to Assets/Samples. This will allow you to open and edit your examples in unity.
-9) Add your samples to package.json
+9) Add your samples to package.json, so upm can install them.
 10) If you create the plugin in MirrorNG repo,  you will automatically use the org license for unity
    otherwise activate a manual license and add it as a secret in your repo called UNITY_LICENSE. see https://github.com/MirrorNG/unity-runner for detailed instructions
 11) Create a sonar qube project for your repo in [sonarcloud](https://sonarcloud.io) or ask Paul if you would like it created in the MirrorNG org
